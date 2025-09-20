@@ -1,0 +1,5 @@
+This is the list of all addons added to the server.
+
+metamod (2.0) <https://www.sourcemm.net/downloads.php?branch=dev>
+sourcemod (1.13) <https://www.sourcemod.net/downloads.php?branch=dev>
+srctv+ <https://github.com/dalegaard/srctvplus>
