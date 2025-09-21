@@ -34,5 +34,5 @@ tf_econ_data <"A library to read item data straight from the game's memory." htt
 tidychat <"Cleans up the chat area." https://forums.alliedmods.net/showthread.php?t=101340>
 unusedvoicelines <"Plays unused announcer voicelines, class speeches, & sounds/music." https://forums.alliedmods.net/showthread.php?p=2733016>
 votefailed <"Used to display specific vote failed and call vote failed messages to a user" https://forums.alliedmods.net/showthread.php?t=208008>
-votescramble <"Vote to scramble teams.">
+votescramble <"Vote to scramble teams." Included in repo>
 waitingdoors <"Open spawn doors during waiting for players round." https://github.com/sapphonie/WaitingDoors>
