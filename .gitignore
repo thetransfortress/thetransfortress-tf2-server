@@ -1,0 +1,10 @@
+srcds_linux
+srcds_linux64
+srcds_run
+srcds_run_64
+steam_appid.txt
+thirdpartylegalnotices.txt
+bin/
+hl2/
+platform/
+steamapps/
