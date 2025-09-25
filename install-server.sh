@@ -50,6 +50,7 @@ sleep 2
 ./steamcmd.sh +force_install_dir /home/$USER/thetransfortress-tf2-server +login anonymous +app_update 232250 +quit
 
 # Install Metamod, Sourcemod, and SrcTV+
+
 cd /home/$USER/thetransfortress-tf2-server/tf
 
 echo
