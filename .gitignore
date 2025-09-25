@@ -18,12 +18,20 @@ tf/addons/*
 
 tf/addons/sourcemod/*
 !tf/addons/sourcemod/configs/
+!tf/addons/sourcemod/gamedata/
 !tf/addons/sourcemod/plugins/
 
 tf/addons/sourcemod/configs/*
 !tf/addons/sourcemod/configs/admins_simple.ini
 !tf/addons/sourcemod/configs/advertisements.txt
 !tf/addons/sourcemod/configs/maplists.cfg
+
+tf/addons/sourcemod/gamedata/core.games/
+tf/addons/sourcemod/gamedata/sdkhooks.games/
+tf/addons/sourcemod/gamedata/sdktools.games/
+tf/addons/sourcemod/gamedata/sm-cstrike.games/
+tf/addons/sourcemod/gamedata/funcommands.games.txt
+tf/addons/sourcemod/gamedata/sm-tf2.games.txt
 
 tf/addons/sourcemod/plugins/disabled/
 tf/addons/sourcemod/plugins/admin-flatfile.smx
