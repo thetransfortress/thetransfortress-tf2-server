@@ -79,9 +79,19 @@ sleep 2
 wget https://github.com/dalegaard/srctvplus/releases/download/v3.0/srctvplus.vdf
 wget https://github.com/dalegaard/srctvplus/releases/download/v3.0/srctvplus.so
 
-# Download plugins
+cd /home/$USER/thetransfortress-tf2-server/tf/
 
+# Disable unused plugins
 
+echo "Disabling unused plugins..."
+echo
+sleep 2
+
+mv addons/sourcemod/plugins/basevotes.smx addons/sourcemod/plugins/disabled/basevotes.smx
+mv addons/sourcemod/plugins/funcommands.smx addons/sourcemod/plugins/disabled/funcommands.smx
+mv addons/sourcemod/plugins/funvotes.smx addons/sourcemod/plugins/disabled/funvotes.smx
+mv addons/sourcemod/plugins/nextmap.smx addons/sourcemod/plugins/disabled/nextmap.smx
+mv addons/sourcemod/plugins/reservedslots.smx addons/sourcemod/plugins/disabled/reservedslots.smx
 
 # chmod scripts
 
