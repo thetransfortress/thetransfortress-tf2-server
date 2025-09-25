@@ -3,7 +3,6 @@
 # Install 32x libs
 sudo dpkg --add-architecture i386
 sudo apt update
-sudo apt -y upgrade
 sudo apt -y install libc6:i386 libncurses6:i386 libstdc++6:i386 zlib1g:i386 libbz2-1.0:i386 libcurl3t64-gnutls:i386 libsdl2-2.0-0:i386
 
 # Install Steam
