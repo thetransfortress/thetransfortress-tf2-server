@@ -7,12 +7,11 @@ sudo apt -y install libc6:i386 libncurses6:i386 libstdc++6:i386 zlib1g:i386 libb
 
 # Install Steam
 sudo apt -y install steam-installer
-steam
-# nohup steam &
+nohup steam &
 
-# # Instal SteamCMD
-# mkdir ~/steamcmd
-# cd ~/steamcmd
-# wget https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz
-# tar zxf steamcmd_linux.tar.gz
+# Instal SteamCMD
+mkdir ~/steamcmd
+cd ~/steamcmd
+wget https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz
+tar zxf steamcmd_linux.tar.gz
 # ./steamcmd.sh +force_install_dir /home/$USER/tf2-ds +login anonymous +app_update 232250 +quit
