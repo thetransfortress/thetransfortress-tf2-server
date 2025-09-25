@@ -97,8 +97,8 @@ whitelist
     particles\stickybomb.pcf                  trusted_source
     particles\stickybomb_dx80.pcf             trusted_source
 
-    // Disable sprays
-    materials\temp\...                        trusted_source
-    materials\vgui\logos\...                  trusted_source
-    materials\vgui\logos\ui\...               trusted_source
+    // Allow sprays
+    materials\temp\...                        any
+    materials\vgui\logos\...                  any
+    materials\vgui\logos\ui\...               any
 }
