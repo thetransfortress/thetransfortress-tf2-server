@@ -7,7 +7,7 @@ sudo apt -y install libc6:i386 libncurses6:i386 libstdc++6:i386 zlib1g:i386 libb
 
 # Install Steam
 sudo apt -y install steam-installer
-nohup steam &
+nohup steam >/dev/null 2>&1 &
 
 # Instal SteamCMD
 mkdir ~/steamcmd
