@@ -1,0 +1,27 @@
+"Advertisements"
+{
+    "1"
+    {
+        "chat"        "{magenta}The Trans Fortress {white}:  If you're enjoying the Trans Fortress TF2 server, make sure to invite your friends, add it to your favorites, and come again!"
+    }
+    "2"
+    {
+        "chat"        "{magenta}The Trans Fortress {white}:  Teams feeling unbalanced?  Type '!scramble' or 'scramble' to start a vote for a team scramble."
+    }
+    "3"
+    {
+        "chat"        "{magenta}The Trans Fortress {white}:  Tired of the current map?  Type '!rtv' or 'rtv' to rock the vote and change the map."
+    }
+    "4"
+    {
+        "chat"        "{magenta}The Trans Fortress {white}:  Want to put a map in the next map vote?  Type '!nominate' or 'nominate' to pick a map, or type '!nominate [map name]' to nominate a specific map."
+    }
+    "5"
+    {
+        "chat"        "{magenta}The Trans Fortress {white}:  Follow the rules!  This is a SFW server where everyone is welcome."
+    }
+    "6"
+    {
+        "chat"        "{magenta}The Trans Fortress {white}:  Join the Discord Server!  https://discord.gg/dznZm8Bm8t"
+    }
+}
