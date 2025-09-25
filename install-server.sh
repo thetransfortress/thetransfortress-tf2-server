@@ -88,7 +88,6 @@ echo "Disabling unused plugins..."
 echo
 sleep 2
 
-mv addons/sourcemod/plugins/basevotes.smx addons/sourcemod/plugins/disabled/basevotes.smx
 mv addons/sourcemod/plugins/funcommands.smx addons/sourcemod/plugins/disabled/funcommands.smx
 mv addons/sourcemod/plugins/funvotes.smx addons/sourcemod/plugins/disabled/funvotes.smx
 mv addons/sourcemod/plugins/nextmap.smx addons/sourcemod/plugins/disabled/nextmap.smx
