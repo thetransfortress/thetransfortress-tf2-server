@@ -1,4 +1,5 @@
 *
+!.gitignore
 !download-maps.sh
 !install-server.sh
 !README.md
@@ -24,6 +25,8 @@ tf/addons/sourcemod/configs/*
 !tf/addons/sourcemod/configs/advertisements.txt
 !tf/addons/sourcemod/configs/maplists.cfg
 
+!tf/addons/sourcemod/extensions/*
+!tf/addons/sourcemod/extensions/x64/
 tf/addons/sourcemod/extensions/bintools.ext.so
 tf/addons/sourcemod/extensions/clientprefs.ext.so
 tf/addons/sourcemod/extensions/dbi.mysql.ext.so
@@ -68,6 +71,8 @@ tf/addons/sourcemod/extensions/sdktools.ext.2.tf2.so
 tf/addons/sourcemod/extensions/topmenus.ext.so
 tf/addons/sourcemod/extensions/updater.ext.so
 tf/addons/sourcemod/extensions/webternet.ext.so
+
+!tf/addons/sourcemod/extensions/x64/*
 tf/addons/sourcemod/extensions/x64/bintools.ext.so
 tf/addons/sourcemod/extensions/x64/clientprefs.ext.so
 tf/addons/sourcemod/extensions/x64/dbi.mysql.ext.so
@@ -96,6 +101,7 @@ tf/addons/sourcemod/extensions/x64/topmenus.ext.so
 tf/addons/sourcemod/extensions/x64/updater.ext.so
 tf/addons/sourcemod/extensions/x64/webternet.ext.so
 
+!tf/addons/sourcemod/gamedata/*
 tf/addons/sourcemod/gamedata/core.games/
 tf/addons/sourcemod/gamedata/sdkhooks.games/
 tf/addons/sourcemod/gamedata/sdktools.games/
@@ -103,6 +109,7 @@ tf/addons/sourcemod/gamedata/sm-cstrike.games/
 tf/addons/sourcemod/gamedata/funcommands.games.txt
 tf/addons/sourcemod/gamedata/sm-tf2.games.txt
 
+!tf/addons/sourcemod/plugins/*
 tf/addons/sourcemod/plugins/disabled/
 tf/addons/sourcemod/plugins/admin-flatfile.smx
 tf/addons/sourcemod/plugins/adminhelp.smx
@@ -121,6 +128,7 @@ tf/addons/sourcemod/plugins/sounds.smx
 tf/cfg/*
 !tf/cfg/mapconfig/
 !tf/cfg/sourcemod/
+!tf/cfg/sourcemod/*
 !tf/cfg/banned_user.cfg
 !tf/cfg/mapcycle.txt
 !tf/cfg/mappool.txt
@@ -128,6 +136,11 @@ tf/cfg/*
 !tf/cfg/passtimetf.txt
 !tf/cfg/pure_server_whitelist.txt
 !tf/cfg/server.cfg
+
+!tf/cfg/mapconfig/*
+!tf/cfg/mapconfig/gametype/
+!tf/cfg/mapconfig/gametype/*
+!tf/cfg/mapconfig/general/all.cfg
 
 tf/cfg/mapconfig/maps/*
 !tf/cfg/mapconfig/maps/cp_altitude.cfg
@@ -157,10 +170,12 @@ tf/cfg/mapconfig/maps/*
 !tf/cfg/mapconfig/maps/cp_overgrown.cfg
 !tf/cfg/mapconfig/maps/cppl_gavle.cfg
 !tf/cfg/mapconfig/maps/cp_probowl_rc1.cfg
+!tf/cfg/mapconfig/maps/cp_rumble_rc8.cfg
 !tf/cfg/mapconfig/maps/cp_snowbase_b21.cfg
 !tf/cfg/mapconfig/maps/cp_snowplow.cfg
 !tf/cfg/mapconfig/maps/cp_steel.cfg
 !tf/cfg/mapconfig/maps/cp_steel_f12.cfg
 !tf/cfg/mapconfig/maps/cp_stoneyridge_rc2.cfg
 !tf/cfg/mapconfig/maps/cp_sulfur.cfg
+!tf/cfg/mapconfig/maps/cppl_gavle_b5.cfg
 !tf/cfg/mapconfig/maps/koth_krampus.cfg
