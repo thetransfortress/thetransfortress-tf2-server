@@ -14,4 +14,5 @@ mkdir ~/steamcmd
 cd ~/steamcmd
 wget https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz
 tar zxf steamcmd_linux.tar.gz
+rm steamcmd_linux.tar.gz
 ./steamcmd.sh +force_install_dir /home/$USER/thetransfortress-tf2-server +login anonymous +app_update 232250 +quit
