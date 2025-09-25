@@ -1,6 +1,11 @@
 #!/bin/sh
 
 # Install 32x libs
+echo
+echo "Updating apt..."
+echo
+sleep 2
+
 sudo dpkg --add-architecture i386
 sudo apt update
 
@@ -21,7 +26,6 @@ sudo apt -y install steam-installer
 
 echo
 echo "Starting steam-installer, press \"Install\", then let Steam install and update.  You do not need to sign into Steam."
-echo
 sleep 2
 
 nohup steam >/dev/null 2>&1 &
@@ -39,7 +43,6 @@ tar zxf steamcmd_linux.tar.gz
 rm steamcmd_linux.tar.gz
 
 # Install TF2 Server
-echo
 echo "Installing TF2 server..."
 echo
 sleep 2
@@ -57,7 +60,6 @@ sleep 2
 wget https://mms.alliedmods.net/mmsdrop/2.0/mmsource-2.0.0-git1366-linux.tar.gz
 wget https://sm.alliedmods.net/smdrop/1.13/sourcemod-1.13.0-git7255-linux.tar.gz
 
-echo
 echo "Extacting Metamod and Sourcemod..."
 echo
 sleep 2
@@ -70,7 +72,6 @@ rm sourcemod-1.13.0-git7255-linux.tar.gz
 
 cd addons
 
-echo
 echo "Downloading SrcTV+..."
 echo
 sleep 2
@@ -91,8 +92,11 @@ chmod +x ./download-maps.sh
 
 # Download maps
 
+echo "Downloading maps..."
+echo
+sleep 2
+
 ./download-maps.sh
 
-echo
 echo "Done!"
-read -n 1 -s
+read -n1 -s
