@@ -19,6 +19,7 @@ tf/addons/sourcemod/*
 !tf/addons/sourcemod/extensions/
 !tf/addons/sourcemod/gamedata/
 !tf/addons/sourcemod/plugins/
+!tf/addons/sourcemod/translations/
 
 tf/addons/sourcemod/configs/*
 !tf/addons/sourcemod/configs/admins_simple.ini
@@ -124,6 +125,39 @@ tf/addons/sourcemod/plugins/basevotes.smx
 tf/addons/sourcemod/plugins/clientprefs.smx
 tf/addons/sourcemod/plugins/playercommands.smx
 tf/addons/sourcemod/plugins/sounds.smx
+
+tf/addons/sourcemod/translations/*
+!tf/addons/sourcemod/translations/chi/
+!tf/addons/sourcemod/translations/de/
+!tf/addons/sourcemod/translations/es/
+!tf/addons/sourcemod/translations/hu/
+!tf/addons/sourcemod/translations/nl/
+!tf/addons/sourcemod/translations/pl/
+!tf/addons/sourcemod/translations/ru/
+!tf/addons/sourcemod/translations/afk_manager.phrases.txt
+!tf/addons/sourcemod/translations/nativevotes.phrases.txt
+!tf/addons/sourcemod/translations/stac.phrases.txt
+
+tf/addons/sourcemod/translations/chi/*
+!tf/addons/sourcemod/translations/chi/nativevotes.phrases.txt
+
+tf/addons/sourcemod/translations/de/*
+!tf/addons/sourcemod/translations/de/nativevotes.phrases.txt
+
+tf/addons/sourcemod/translations/es/*
+!tf/addons/sourcemod/translations/es/nativevotes.phrases.txt
+
+tf/addons/sourcemod/translations/hu/*
+!tf/addons/sourcemod/translations/hu/nativevotes.phrases.txt
+
+tf/addons/sourcemod/translations/nl/*
+!tf/addons/sourcemod/translations/nl/nativevotes.phrases.txt
+
+tf/addons/sourcemod/translations/pl/*
+!tf/addons/sourcemod/translations/pl/nativevotes.phrases.txt
+
+tf/addons/sourcemod/translations/ru/*
+!tf/addons/sourcemod/translations/ru/nativevotes.phrases.txt
 
 tf/cfg/*
 !tf/cfg/mapconfig/
