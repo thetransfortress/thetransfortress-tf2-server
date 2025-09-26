@@ -179,6 +179,11 @@ tf/cfg/*
 !tf/cfg/mapconfig/general/all.cfg
 
 tf/cfg/mapconfig/maps/*
+!tf/cfg/mapconfig/maps/arena_aspen_ft_rc2.cfg
+!tf/cfg/mapconfig/maps/arena_cryo_ft_b3.cfg
+!tf/cfg/mapconfig/maps/arena_himalaya_ft_b3.cfg
+!tf/cfg/mapconfig/maps/arena_melchior_ft_rc1.cfg
+!tf/cfg/mapconfig/maps/arena_speleo_ft_rc2.cfg
 !tf/cfg/mapconfig/maps/cp_altitude.cfg
 !tf/cfg/mapconfig/maps/cp_ambush_rc5.cfg
 !tf/cfg/mapconfig/maps/cp_brew.cfg
