@@ -11,9 +11,9 @@ Don't constantly annoy everyone or be rude.
 Please follow the rules and report any rule-breakers you see!
 
 ----- Info ----------------------------
-Say "!rtv"/"rtv" to "Rock the Vote" and vote for an early map change.
+Say "!rtv"/"rtv" to vote for an early map change.
 Say "!scramble"/"scramble" to start a vote for a team scramble.
-Say "!nominate"/"nominate" to pick a map to add to the next map vote.  You can also use "!nominate [map name]" to skip the menu.
+Say "!nominate"/"nominate" to pick a map to add to the next map vote.  You can also say "!nominate [map name]" to skip the menu.
 
 Admin:  Jeliciousz
 
