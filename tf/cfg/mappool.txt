@@ -19,7 +19,6 @@ cp_egypt_final
 cp_fortezza
 cp_foundry
 cp_fulgur
-cp_glacier_rc6
 cp_granary_pro_rc17a3
 cp_gullywash_f9
 cp_hadal
