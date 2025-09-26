@@ -16,7 +16,7 @@ Say "!scramble"/"scramble" to start a vote for a team scramble.
 Say "!nominate"/"nominate" to pick a map to add to the next map vote.
 You can also say "!nominate [map name]" to skip the menu.
 
-Admin: Jeliciousz
+Owner: Jeliciousz
 
 ----- Links -----
 Join our Discord: https://discord.gg/dznZm8Bm8t
