@@ -1,24 +1,25 @@
------ The Trans Fortress | tf.thetransfortress.org ---------------
-Hello!  Welcome to The Trans Fortress!
+----- The Trans Fortress | tf.thetransfortress.org -----
+Hello! Welcome to The Trans Fortress!
 We're a small trans-focused queer community of TF2 players.
 We accept all walks of life; queer or straight, human or critter!
 
------ Rules ------------------------------------------------------
+----- Rules -----
 Must be 16 years old or older.
 No bigotry or slurs; this is a place for everyone!
 No NSFW or sexually explicit behavior/content.
 Don't constantly annoy everyone or be rude.
 Please follow the rules and report any rule-breakers you see!
 
------ Info -------------------------------------------------------
+----- Info -----
 Say "!rtv"/"rtv" to vote for an early map change.
 Say "!scramble"/"scramble" to start a vote for a team scramble.
-Say "!nominate"/"nominate" to pick a map to add to the next map vote.  You can also say "!nominate [map name]" to skip the menu.
+Say "!nominate"/"nominate" to pick a map to add to the next map vote.
+You can also say "!nominate [map name]" to skip the menu.
 
-Admin:  Jeliciousz
+Admin: Jeliciousz
 
------ Links ------------------------------------------------------
-Join our Discord!  https://discord.gg/dznZm8Bm8t
-Join our Steam Group!  https://steamcommunity.com/groups/thetransfortress
+----- Links -----
+Join our Discord: https://discord.gg/dznZm8Bm8t
+Join our Steam Group: https://steamcommunity.com/groups/thetransfortress
 
-...or open the Main Page!  https://thetransfortress.org
+...or see our site: https://thetransfortress.org/
