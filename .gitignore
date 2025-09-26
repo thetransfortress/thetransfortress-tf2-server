@@ -136,6 +136,7 @@ tf/addons/sourcemod/translations/*
 !tf/addons/sourcemod/translations/ru/
 !tf/addons/sourcemod/translations/afk_manager.phrases.txt
 !tf/addons/sourcemod/translations/nativevotes.phrases.txt
+!tf/addons/sourcemod/translations/ssh.phrases.txt
 !tf/addons/sourcemod/translations/stac.phrases.txt
 
 tf/addons/sourcemod/translations/chi/*
@@ -158,6 +159,7 @@ tf/addons/sourcemod/translations/pl/*
 
 tf/addons/sourcemod/translations/ru/*
 !tf/addons/sourcemod/translations/ru/nativevotes.phrases.txt
+!tf/addons/sourcemod/translations/ru/ssh.phrases.txt
 
 tf/cfg/*
 !tf/cfg/mapconfig/
