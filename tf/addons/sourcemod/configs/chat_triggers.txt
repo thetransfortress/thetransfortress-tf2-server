@@ -5,4 +5,9 @@ ChatTriggers
         "trigger"       "discord"
         "response"      "{magenta}The Trans Fortress{default} :  Join the Trans Fortress Discord Server: https://discord.gg/dznZm8Bm8t"
     }
+    Rules
+    {
+        "trigger"       "rules"
+        "response"      "{red}Server Rules:\nMust be 16 years old or older.\nNo bigotry or slurs; this is a place for everyone!\nNo NSFW or sexually explicit behavior/content.\nDon't constantly annoy everyone or be rude."
+    }
 }
