@@ -2,26 +2,26 @@
 {
     "1"
     {
-        "chat"        "{magenta}The Trans Fortress {white}:  If you're enjoying the Trans Fortress TF2 server, make sure to invite your friends, add it to your favorites, and come again!"
+        "chat"        "{magenta}The Trans Fortress{default} :  If you're enjoying the Trans Fortress TF2 server, make sure to invite your friends, add it to your favorites, and come again!"
     }
     "2"
     {
-        "chat"        "{magenta}The Trans Fortress {white}:  Teams feeling unbalanced?  Type '!scramble' or 'scramble' to start a vote for a team scramble."
+        "chat"        "{magenta}The Trans Fortress{default} :  Teams feeling unbalanced?  Type '!scramble' or 'scramble' to start a vote for a team scramble."
     }
     "3"
     {
-        "chat"        "{magenta}The Trans Fortress {white}:  Tired of the current map?  Type '!rtv' or 'rtv' to rock the vote and change the map."
+        "chat"        "{magenta}The Trans Fortress{default} :  Tired of the current map?  Type '!rtv' or 'rtv' to rock the vote and change the map."
     }
     "4"
     {
-        "chat"        "{magenta}The Trans Fortress {white}:  Want to put a map in the next map vote?  Type '!nominate' or 'nominate' to pick a map, or type '!nominate [map name]' to skip the menu."
+        "chat"        "{magenta}The Trans Fortress{default} :  Want to put a map in the next map vote?  Type '!nominate' or 'nominate' to pick a map, or type '!nominate [map name]' to skip the menu."
     }
     "5"
     {
-        "chat"        "{magenta}The Trans Fortress {white}:  Follow the rules!  This is a SFW server where everyone is welcome."
+        "chat"        "{magenta}The Trans Fortress{default} :  Follow the rules!  This is a SFW server where everyone is welcome."
     }
     "6"
     {
-        "chat"        "{magenta}The Trans Fortress {white}:  Join the Discord Server!  https://discord.gg/dznZm8Bm8t"
+        "chat"        "{magenta}The Trans Fortress{default} :  Join the Discord Server!  https://discord.gg/dznZm8Bm8t"
     }
 }
