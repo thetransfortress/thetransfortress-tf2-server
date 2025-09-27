@@ -8,6 +8,6 @@ ChatTriggers
     Rules
     {
         "trigger"       "rules"
-        "response"      "{red}Server Rules:\nMust be 16 years old or older.\nNo bigotry or slurs; this is a place for everyone!\nNo NSFW or sexually explicit behavior/content.\nDon't constantly annoy everyone or be rude."
+        "response"      "{magenta}The Trans Fortress Server Rules\n{default}Must be 16 years old or older.\nNo bigotry or slurs; this is a place for everyone!\nNo NSFW or sexually explicit behavior/content.\nDon't constantly annoy everyone or be rude."
     }
 }
