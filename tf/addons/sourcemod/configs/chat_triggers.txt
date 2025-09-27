@@ -1,0 +1,8 @@
+ChatTriggers
+{
+    Discord
+    {
+        "trigger"       "discord"
+        "response"      "{magenta}The Trans Fortress{default} :  Join the Trans Fortress Discord Server: https://discord.gg/dznZm8Bm8t"
+    }
+}
