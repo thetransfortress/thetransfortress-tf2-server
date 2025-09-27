@@ -1,7 +1,6 @@
 arena_aspen_ft_rc2
 arena_cryo_ft_b3
 arena_himalaya_ft_b3
-arena_rural_b6
 arena_speleo_ft_rc2
 cp_5gorge
 cp_altitude
