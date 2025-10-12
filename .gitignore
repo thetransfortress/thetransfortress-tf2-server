@@ -25,6 +25,7 @@ tf/addons/sourcemod/configs/*
 !tf/addons/sourcemod/configs/admins_simple.ini
 !tf/addons/sourcemod/configs/advertisements.txt
 !tf/addons/sourcemod/configs/chat_triggers.txt
+!tf/addons/sourcemod/configs/databases.cfg
 !tf/addons/sourcemod/configs/maplists.cfg
 
 !tf/addons/sourcemod/extensions/*
