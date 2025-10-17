@@ -170,8 +170,8 @@ tf/cfg/*
 !tf/cfg/banned_user.cfg
 !tf/cfg/mapcycle.txt
 !tf/cfg/mappool.txt
-!tf/cfg/motd_default.txt
-!tf/cfg/motd_text_default.txt
+!tf/cfg/motd.txt
+!tf/cfg/motd_text.txt
 !tf/cfg/pure_server_whitelist.txt
 !tf/cfg/server.cfg
 
