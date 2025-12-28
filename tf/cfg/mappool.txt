@@ -38,8 +38,9 @@ cp_stoneyridge_rc2
 cp_sulfur
 cp_sultry_b8a
 cp_sunshine
-cppl_gavle_b5
+cppl_gavle
 ctf_applejack
+ctf_bluefort_rc1
 ctf_haarp
 ctf_landfall
 koth_ashville_final1
