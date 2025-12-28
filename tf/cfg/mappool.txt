@@ -42,7 +42,6 @@ cppl_gavle_b5
 ctf_applejack
 ctf_haarp
 ctf_landfall
-ctf_pelican_peak
 koth_ashville_final1
 koth_bagel_rc11
 koth_brine_rc3a
