@@ -19,6 +19,7 @@ cp_fortezza
 cp_foundry
 cp_fulgur
 cp_granary_pro_rc17a3
+cp_gravelbine_a14
 cp_gullywash_f9
 cp_hadal
 cp_hardwood_final
@@ -33,16 +34,19 @@ cp_reckoner
 cp_rumble_rc8
 cp_snakewater_final1
 cp_snowbase_b21
+cp_standin_final
 cp_steel_f12
 cp_stoneyridge_rc2
 cp_sulfur
 cp_sultry_b8a
 cp_sunshine
+cp_warmfrost_rc1
 cppl_gavle
 ctf_applejack
 ctf_bluefort_rc1
 ctf_haarp
 ctf_landfall
+koth_airfield_b7
 koth_ashville_final1
 koth_bagel_rc11
 koth_brine_rc3a
