@@ -19,7 +19,6 @@ cp_fortezza
 cp_foundry
 cp_fulgur
 cp_granary_pro_rc17a3
-cp_gravelbine_a14
 cp_gullywash_f9
 cp_hadal
 cp_hardwood_final
