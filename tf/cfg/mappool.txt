@@ -54,6 +54,7 @@ koth_cascade
 koth_clearcut_b18
 koth_fjord_rc0v3
 koth_gamma_rc1
+koth_govan_rc1
 koth_highpass
 koth_jamram_rc2b
 koth_king
@@ -70,6 +71,7 @@ koth_suijin
 koth_synthetic_rc6a
 koth_undergrove_rc1
 koth_warmtic_f10
+pass_aerosol_a13
 pass_arena2_b15
 pass_boutique_rc5
 pass_colosseum2_a16
