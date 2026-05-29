@@ -222,3 +222,4 @@ tf/cfg/mapconfig/maps/*
 !tf/cfg/mapconfig/maps/cp_sulfur.cfg
 !tf/cfg/mapconfig/maps/cppl_gavle.cfg
 !tf/cfg/mapconfig/maps/koth_krampus.cfg
+update-server-script.txt
